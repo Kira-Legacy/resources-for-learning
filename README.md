@@ -5,3 +5,6 @@ A repository where I keep learning resources address. You are invited to check t
 
 # For learning Grid-box
 - <a href = "https://appbrewery.github.io/gridgarden/" style="text-decoration:none;"> Grid Garden Game </a>
+
+# CDN
+- CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
