@@ -1,5 +1,5 @@
 # resources-for-learning
-A repository where I keep the learning resources address.
+A repository where I keep learning resources address. You are invited to check them out to improve your technical skills as a developer.
 # For learning Flex-box
 - <a href = "https://appbrewery.github.io/flexboxfroggy/" style="text-decoration:none;"> Flex box froggy game </a>
 
