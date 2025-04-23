@@ -9,7 +9,8 @@ A repository where I keep learning resources address. You are invited to check t
 - <a href = "https://appbrewery.github.io/gridgarden/" style="text-decoration:none;"> Grid Garden Game </a>
 
 # For minifying code
-- https://www.minifier.com/
+- <a href = "https://www.minifier.org/"> Minify your code </a>
+- Minifing means reducing the size of your code through space and comment removal.
 
 # Short Notes
 - CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
