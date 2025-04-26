@@ -18,3 +18,6 @@ A repository where I keep learning resources address. You are invited to check t
 
 # Fun
 - Would like to have fun with the fake hacker typer? then checkout <a href = "https://hackertyper.com/"> hackertyper </a>
+
+# Learn Enough Command Line to be Dangerous
+- Visit the <a href = "https://www.learnenough.com/command-line-tutorial"> learn enough </a> website
