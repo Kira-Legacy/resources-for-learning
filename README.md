@@ -13,7 +13,6 @@ A repository where I keep learning resources address. You are invited to check t
 - Minifing means reducing the size of your code through space and comment removal.
 
 ## Short Notes
-- CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
 - Higher order functions are functions that can take other functions as inputs.
 - Node is not a JavaScript framework, rather Node is a runtime environment. Node allows us to run JS on a computer and not just limited on the computer.
 
@@ -25,7 +24,9 @@ A repository where I keep learning resources address. You are invited to check t
 
 ## Common words and Abbrevations
 
+- CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
 - Vanilla language = Pure language without any external libraries and frameworks
   Example: Vanilla CSS = Pure CSS without bootstrap or tailwind css and soon.
+- NPM = Node Package Manager
 - CJS = Common JavaScript
 - ESM = ECMAScript Modules
