@@ -15,7 +15,7 @@ A repository where I keep learning resources address. You are invited to check t
 ## Short Notes
 - CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
 - Higher order functions are functions that can take other functions as inputs.
-- Node is not a JavaScript framework, rather Node is a runtime environment.
+- Node is not a JavaScript framework, rather Node is a runtime environment. Node allows us to run JS on a computer and not just limited on the computer.
 
 ## Fun
 - Would like to have fun with the fake hacker typer? then checkout <a href = "https://hackertyper.com/"> hackertyper </a>
