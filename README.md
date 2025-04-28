@@ -1,23 +1,23 @@
 # From the course "The Complete 2024 Web Development Bootcamp" taught by Dr. Angela Lu
 
-# Resources-for-learning
+## Resources-for-learning
 A repository where I keep learning resources address. You are invited to check them out to improve your technical skills as a developer.
-# For learning Flex-box
+## For learning Flex-box
 - <a href = "https://appbrewery.github.io/flexboxfroggy/" style="text-decoration:none;"> Flex box froggy game </a>
 
-# For learning Grid-box
+## For learning Grid-box
 - <a href = "https://appbrewery.github.io/gridgarden/" style="text-decoration:none;"> Grid Garden Game </a>
 
-# For minifying code
+## For minifying code
 - <a href = "https://www.minifier.org/"> Minify your code </a>
 - Minifing means reducing the size of your code through space and comment removal.
 
-# Short Notes
+## Short Notes
 - CDN stands for Content Distribution Network. I have discovered this when learning BootStrap.
 - Higher order functions are functions that can take other functions as inputs.
 
-# Fun
+## Fun
 - Would like to have fun with the fake hacker typer? then checkout <a href = "https://hackertyper.com/"> hackertyper </a>
 
-# Learn Enough Command Line to be Dangerous
+## Learn Enough Command Line to be Dangerous
 - Visit the <a href = "https://www.learnenough.com/command-line-tutorial"> learn enough </a> website
