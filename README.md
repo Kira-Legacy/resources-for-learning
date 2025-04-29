@@ -38,6 +38,7 @@ A repository where I keep learning resources address. You are invited to check t
 - NPM = Node Package Manager
 - CJS = Common JavaScript
 - ESM = ECMAScript Modules
+- EJS = Embedded JavaScript
 
 ### HTTP return codes cheat sheet
 - 1 => Hold on
