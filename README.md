@@ -16,6 +16,7 @@ A repository where I keep learning resources address. You are invited to check t
 - Higher order functions are functions that can take other functions as inputs.
 - Node is not a JavaScript framework, rather Node is a runtime environment. Node allows us to run JS on a computer and not just limited on the computer.
 
+
 ## Fun
 - Would like to have fun with the fake hacker typer? then checkout <a href = "https://hackertyper.com/"> hackertyper </a>
 
@@ -30,3 +31,10 @@ A repository where I keep learning resources address. You are invited to check t
 - NPM = Node Package Manager
 - CJS = Common JavaScript
 - ESM = ECMAScript Modules
+
+## HTTP return codes cheat sheet
+- 1 => Hold on
+- 2 => Here you go
+- 3 => Go away
+- 4 => You screwed up
+- 5 => I screwed up
