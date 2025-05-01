@@ -44,5 +44,17 @@ A repository where I keep learning resources address. You are invited to check t
 - 1 => Hold on
 - 2 => Here you go
 - 3 => Go away
-- 4 => You screwed up
-- 5 => I screwed up
+- 4 => You (the user) screwed up 
+- 5 => I (the server) screwed up
+
+### Version control using git and GitHub
+
+Steps to using the command line to commit on a github repository.
+      - git init 
+      - git add file_to_be_added
+      - git commit -m "Commit_message"
+      - git status --> to check the status 
+      - git log --> to get information about recent commits made.
+      - git diff filename --> check the difference of a file from the original version
+      - git checkout filename --> rollback a file to it's last version
+    
