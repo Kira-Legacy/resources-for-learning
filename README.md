@@ -50,6 +50,7 @@ A repository where I keep learning resources address. You are invited to check t
 ### Version control using git and GitHub
 
 Steps to using the command line to commit on a github repository.
+
       - git init 
       - git add file_to_be_added
       - git commit -m "Commit_message"
