@@ -58,4 +58,10 @@ Steps to using the command line to commit on a github repository.
       - git log --> to get information about recent commits made.
       - git diff filename --> check the difference of a file from the original version
       - git checkout filename --> rollback a file to it's last version
+
+### APIs
+- https://www.bored-api.appbrewery.com/endpoint?query=value&query2=value2. bored-api.appbrewery.com ---> base URL   endpoint ---> endpoint  ?query=value&query2=value2 ---> query
+
+### JSON
+- To see a humanoid version of JSON ---> jsonviewer.stack.hu 
     
