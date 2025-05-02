@@ -63,5 +63,6 @@ Steps to using the command line to commit on a github repository.
 - https://www.bored-api.appbrewery.com/endpoint?query=value&query2=value2. bored-api.appbrewery.com ---> base URL   endpoint ---> endpoint  ?query=value&query2=value2 ---> query
 
 ### JSON
-- To see a humanoid version of JSON ---> jsonviewer.stack.hu 
+- To see a humanoid version of JSON ---> jsonviewer.stack.hu
+- A password decoding website ---> base64decode.org
     
