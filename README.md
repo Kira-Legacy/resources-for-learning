@@ -39,6 +39,7 @@ A repository where I keep learning resources address. You are invited to check t
 - CJS = Common JavaScript
 - ESM = ECMAScript Modules
 - EJS = Embedded JavaScript
+- JSON = JavaScript Object Notation. This is basically a configuration file.
 
 ### HTTP return codes cheat sheet
 - 1 => Hold on
