@@ -42,6 +42,11 @@ A repository where I keep learning resources address. You are invited to check t
 - JSON = JavaScript Object Notation. This is basically a configuration file.
 
 ### HTTP return codes cheat sheet
+- GET => Request resource.
+- POST => Sending resource.
+- PUT => Update by replacing resource.
+- PATCH => Update by patching up a resource.
+- DELETE => Deleting a resource.
 - 1 => Hold on
 - 2 => Here you go
 - 3 => Go away
