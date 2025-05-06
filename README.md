@@ -71,7 +71,7 @@ Steps to using the command line to commit on a github repository.
 ### JSON
 - To see a humanoid version of JSON ---> jsonviewer.stack.hu
 - A password decoding website ---> base64decode.org
-- JSON visualizer --> jsonviewer.stack.hu
+- JSON visualizer --> <a href = "jsonviewer.stack.hu">jsonviewer.stack.hu</a>
 
 ### Expree
 - "/" --> root route.
