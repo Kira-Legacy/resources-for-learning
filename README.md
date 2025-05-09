@@ -73,6 +73,11 @@ Steps to using the command line to commit on a github repository.
 - A password decoding website ---> base64decode.org
 - JSON visualizer --> <a href = "https://jsonviewer.stack.hu/">jsonviewer.stack.hu</a>
 
+### Angular
+- Angular supports MVC architecture. MVC architecture allows developers to separate thier code into 3 distinct parts, namely Model, View and Controller.
+
+
+
 ### Expree
 - "/" --> root route.
     
