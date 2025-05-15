@@ -56,14 +56,21 @@ A repository where I keep learning resources address. You are invited to check t
 ### Version control using git and GitHub
 
 Steps to using the command line to commit on a github repository.
+#### Creating Local Repostitory
 
-      - git init 
-      - git add file_to_be_added
-      - git commit -m "Commit_message"
+
+      1. git init 
+      2. git add example1.example1 example2.example2
+      3. git commit -m "Your commit message here"
       - git status --> to check the status 
       - git log --> to get information about recent commits made.
       - git diff filename --> check the difference of a file from the original version
       - git checkout filename --> rollback a file to it's last version
+
+  #### Creating Remote Repostirory (On Github or others)
+      1. git remote add origin github_repository_url
+      2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
+      3. git push -u origin main --> Push the code
 
 ### APIs
 - https://www.bored-api.appbrewery.com/endpoint?query=value&query2=value2. bored-api.appbrewery.com ---> base URL   endpoint ---> endpoint  ?query=value&query2=value2 ---> query
@@ -78,15 +85,7 @@ Steps to using the command line to commit on a github repository.
 
 ### GitHub
 
-#### Creating Local Repostitory
-- 1. git init
-  2. git add example1.example1 example2.example2
-  3. git commit -m "Your commit message here"
-  
-#### Creating Remote Repostirory (On Github or others)
-- 1. git remote add origin github_repository_url
-2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
-3. git push -u origin main --> Push the code
+
   
 
 
