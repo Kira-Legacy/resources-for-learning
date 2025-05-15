@@ -76,6 +76,19 @@ Steps to using the command line to commit on a github repository.
 ### Angular
 - Angular supports MVC architecture. MVC architecture allows developers to separate thier code into 3 distinct parts, namely Model, View and Controller.
 
+### GitHub
+
+#### Creating Local Repostitory
+- 1. git init
+  2. git add example1.example1 example2.example2
+  3. git commit -m "Your commit message here"
+  
+#### Creating Remote Repostirory (On Github or others)
+- 1. git remote add origin github_repository_url
+2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
+3. git push -u origin main --> Push the code
+  
+
 
 
 ### Expree
