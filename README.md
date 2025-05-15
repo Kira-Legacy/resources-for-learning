@@ -71,6 +71,8 @@ Steps to using the command line to commit on a github repository.
       1. git remote add origin github_repository_url
       2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
       3. git push -u origin main --> Push the code
+  #### Cloning
+    1. git clone url
 
 ### APIs
 - https://www.bored-api.appbrewery.com/endpoint?query=value&query2=value2. bored-api.appbrewery.com ---> base URL   endpoint ---> endpoint  ?query=value&query2=value2 ---> query
