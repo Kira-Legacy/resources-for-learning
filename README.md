@@ -85,7 +85,14 @@ Steps to using the command line to commit on a github repository.
 ### Angular
 - Angular supports MVC architecture. MVC architecture allows developers to separate thier code into 3 distinct parts, namely Model, View and Controller.
 
-### GitHub
+### GitHub Cloning
+    git clone url
+#### Cloning URLs
+- https://github.com/inolen/quakejs.git
+- https://github.com/clupasq/word-mastermind.git
+
+#### Collaboration addresses
+- https://github.com/MunGell/awesome-for-beginners.git
 
 
   
