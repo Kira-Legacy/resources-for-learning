@@ -94,6 +94,9 @@ Steps to using the command line to commit on a github repository.
 #### Collaboration addresses
 - https://github.com/MunGell/awesome-for-beginners.git
 
+#### Random Image Resource
+- https://picsum.photos/
+
 
   
 
