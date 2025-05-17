@@ -97,11 +97,4 @@ Steps to using the command line to commit on a github repository.
 #### Random Image Resource
 - https://picsum.photos/
 
-
-  
-
-
-
-### Expree
-- "/" --> root route.
     
