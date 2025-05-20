@@ -97,4 +97,14 @@ Steps to using the command line to commit on a github repository.
 #### Random Image Resource
 - https://picsum.photos/
 
+### React
+    1. npx create-react-app your-react-app-name
+    2. cd your-react-app-name
+    3. npm start
+1. Create a new react project.
+2. Change the directory into that project folder.
+3. Start the server.
+      
+                      
+
     
