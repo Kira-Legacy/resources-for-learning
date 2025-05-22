@@ -104,7 +104,79 @@ Steps to using the command line to commit on a github repository.
 1. Create a new react project.
 2. Change the directory into that project folder.
 3. Start the server.
-      
+
+#### React's Map, Reduce, Find and FindIndex functions.
+- There are three ways to execute these functions.
+##### Map Function
+const numbers = [5, 10, 15, 20, 25, 30];
+
+1. function square(num) {
+  return x * x;
+};
+const squareNum = numbers.map(square);
+console.log(squareNum);
+
+2. const squareNum = numbers.map(function (num) {
+  return x * x;
+});  
+console.log(squareNum);
+
+3. const squareNum = numbers.map((num) => x*x);
+   console.log(squareNum);
+
+##### Reduce Function
+
+const numbers = [5, 10, 15, 20, 25, 30];
+
+1. function accNum(accumulator, currentNumber){
+      return accumlator + currentNumber;
+   };
+const accumulatedNum = numbers.reduce(accNum);
+console.log(accumatedNum);
+
+2. const accumulatedNum = number.reduce(function (accumulator, currentNumber){
+      return accumulator + currentNumber;
+   });
+   console.log(accumulatedNum);
+
+3. const accumulatedNum = number.reduce((accumulator, currentNumber) => accumulator + currentNumber);
+   console.log(accumlatedNum); //For checking the output
+   
+#### Find Function
+
+const numbers = [5, 10, 15, 20, 25, 30];
+
+1. function findNum(num){
+    return num < 15;
+   }
+   const findNumber = numbers.find(findNum);
+   console.log(findNumber);  //For checking the output
+
+2. const findNumber = numbers.find(function (num) {
+   return num < 15;
+   });
+   console.log(findNumber);
+
+3. cosnt findNumber = numbers.find((num) => num<15);
+   console.log(findNumber);
+
+##### FindIndex Function
+
+const numbers = [5, 10, 15, 20, 25, 30];
+
+1. function findNum(num){
+    return num < 15;
+   }
+   const findNumber = numbers.findIndex(findNum);
+   console.log(findNumber);  //For checking the output
+
+2. const findNumber = numbers.findIndex(function (num) {
+   return num < 15;
+   });
+   console.log(findNumber);
+
+3. cosnt findNumber = numbers.findIndex((num) => num<15);
+   console.log(findNumber);
                       
 
     
