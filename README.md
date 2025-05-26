@@ -157,7 +157,7 @@ const numbers = [5, 10, 15, 20, 25, 30];
    });
    console.log(findNumber);
 
-3. cosnt findNumber = numbers.find((num) => num<15);
+3. const findNumber = numbers.find((num) => num<15);
    console.log(findNumber);
 
 ##### FindIndex Function
