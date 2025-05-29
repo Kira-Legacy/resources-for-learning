@@ -175,8 +175,13 @@ const numbers = [5, 10, 15, 20, 25, 30];
    });
    console.log(findNumber);
 
-3. cosnt findNumber = numbers.findIndex((num) => num<15);
+3. const findNumber = numbers.findIndex((num) => num<15);
    console.log(findNumber);
-                      
+
+### Starting Servers of different Frameworks
+
+    1. node entryfilename.js / nodemon entryfilename.js (If you have nodemon installed)  => For node, Express
+    2. npm start  => For react
+    3. ng serve   => For Angular
 
     
