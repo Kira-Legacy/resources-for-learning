@@ -71,8 +71,11 @@ Steps to using the command line to commit on a github repository.
       1. git remote add origin github_repository_url
       2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
       3. git push -u origin main --> Push the code
-  #### Cloning
+  #### Git Cloning
     git clone url
+  #### Sample cloning URLs
+- https://github.com/inolen/quakejs.git
+- https://github.com/clupasq/word-mastermind.git
 
 ### APIs
 - https://www.bored-api.appbrewery.com/endpoint?query=value&query2=value2. bored-api.appbrewery.com ---> base URL   endpoint ---> endpoint  ?query=value&query2=value2 ---> query
@@ -84,12 +87,6 @@ Steps to using the command line to commit on a github repository.
 
 ### Angular
 - Angular supports MVC architecture. MVC architecture allows developers to separate thier code into 3 distinct parts, namely Model, View and Controller.
-
-### GitHub Cloning
-    git clone url
-#### Cloning URLs
-- https://github.com/inolen/quakejs.git
-- https://github.com/clupasq/word-mastermind.git
 
 #### Collaboration addresses
 - https://github.com/MunGell/awesome-for-beginners.git
