@@ -164,7 +164,7 @@ const numbers = [5, 10, 15, 20, 25, 30];
 1. function findNum(num){
     return num < 15;
    }
-   const findNumber = numbers.findIndex(findNum);
+   - const findNumber = numbers.findIndex(findNum);
    console.log(findNumber);  //For checking the output
 
 2. const findNumber = numbers.findIndex(function (num) {
