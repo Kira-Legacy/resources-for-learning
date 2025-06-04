@@ -47,11 +47,11 @@ A repository where I keep learning resources address. You are invited to check t
 - PUT => Update by replacing resource.
 - PATCH => Update by patching up a resource.
 - DELETE => Deleting a resource.
-- 1 => Hold on
-- 2 => Here you go
-- 3 => Go away
-- 4 => You (the user) screwed up 
-- 5 => I (the server) screwed up
+- 1xx => Hold on
+- 2xx => Here you go
+- 3xx => Go away
+- 4xx => You (the user) screwed up 
+- 5xx => I (the server) screwed up
 
 ### Version control using git and GitHub
 
