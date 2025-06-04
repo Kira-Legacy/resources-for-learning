@@ -110,8 +110,8 @@ const numbers = [5, 10, 15, 20, 25, 30];
 1. function square(num) {
   return x * x;
 };
-const squareNum = numbers.map(square);
-console.log(squareNum);
+- const squareNum = numbers.map(square);
+- console.log(squareNum);
 
 2. const squareNum = numbers.map(function (num) {
   return x * x;
