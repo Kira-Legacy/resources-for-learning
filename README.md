@@ -186,4 +186,6 @@ const numbers = [5, 10, 15, 20, 25, 30];
     2. npm start  => For react
     3. ng serve   => For Angular
 
+## MongoDB
+- A collection is a group of documents and a database is a group of collections.
     
