@@ -16,3 +16,6 @@
 <a href="https://toolfolio.io/">Toolfolio</a> <br />
 <a href="https://www.figma.com/">Figma</a> <br />
 <a href="https://www.canva.com/en_gb/">Canva</a> <br />
+
+# Encoding
+<a href="https://www.urlencoder.org/">URL Encoder</a> <br />
