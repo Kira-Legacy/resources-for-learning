@@ -1,18 +1,18 @@
 # Here I keep resources helping with developing
 
 # AI code-editor
-<a href = "https://www.cursor.com/">Cursor</a>
-<a href = "https://code.visualstudio.com/">Visual Studio Code</a>
+<a href = "https://www.cursor.com/">Cursor</a> <br />
+<a href = "https://code.visualstudio.com/">Visual Studio Code</a> <br />
 
 # AI Gpts
-<a href="https://grok.com/">Grok AI</a>
-<a href="https://www.deepseek.com/">DeepSeek</a>
-<a href="https://v0.dev/">v0</a>
-<a href="https://openai.com/index/chatgpt/">Chatgpt</a>
-<a href="https://copilot.microsoft.com/">Copilot</a>
-<a href="https://gemini.google.com/">Gemini</a>
+<a href="https://grok.com/">Grok AI</a> <br />
+<a href="https://www.deepseek.com/">DeepSeek</a> <br />
+<a href="https://v0.dev/">v0</a> <br />
+<a href="https://openai.com/index/chatgpt/">Chatgpt</a> <br />
+<a href="https://copilot.microsoft.com/">Copilot</a> <br />
+<a href="https://gemini.google.com/">Gemini</a> <br />
 
 # Design Inspiration
-<a href="https://toolfolio.io/">Toolfolio</a>
-<a href="https://www.figma.com/">Figma</a>
-<a href="https://www.canva.com/en_gb/">Canva</a>
+<a href="https://toolfolio.io/">Toolfolio</a> <br />
+<a href="https://www.figma.com/">Figma</a> <br />
+<a href="https://www.canva.com/en_gb/">Canva</a> <br />
