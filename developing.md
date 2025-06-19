@@ -19,3 +19,20 @@
 
 # Encoding
 <a href="https://www.urlencoder.org/">URL Encoder</a> <br />
+
+# CSS
+# Making Objects rotate using CSS
+@media (prefers-reduced-motion: no-preference) {
+  .object-class-name {
+    animation: object-class-name-spin infinite 100s linear;
+  }
+}
+
+@keyframes object-class-name {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
