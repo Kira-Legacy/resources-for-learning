@@ -188,4 +188,10 @@ const numbers = [5, 10, 15, 20, 25, 30];
 
 ## MongoDB
 - A collection is a group of documents and a database is a group of collections.
+
+## Docker
+- You can build an image using the following docker build command via a CLI in your project folder.
+
+      docker build -t welcome-to-docker .
+  
     
