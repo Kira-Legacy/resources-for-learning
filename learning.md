@@ -193,5 +193,15 @@ const numbers = [5, 10, 15, 20, 25, 30];
 - You can build an image using the following docker build command via a CLI in your project folder.
 
       docker build -t welcome-to-docker .
+
+# MongoDB course by Max Schwezner
+### Databases, Collections and Documents
+- A Database holds multiple Collections where each collection can then hold multiple Documents.
+- Databases and Collections are created "lazily" (i.e. when a Document is inserted).
+- A Document can't directly be inserted into a Database, you need to use a Collection!
+  
+### Document Structure
+- Each document needs a unique ID ( and gets one by default)
+- You may have embedded documents and array fields.
   
     
