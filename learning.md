@@ -203,5 +203,9 @@ const numbers = [5, 10, 15, 20, 25, 30];
 ### Document Structure
 - Each document needs a unique ID ( and gets one by default)
 - You may have embedded documents and array fields.
+
+# JWT (JSON Web Token) Generation
+- Using Node.js => node -e "console.log('JWT_SECRET=' + require('crypto').randomBytes(64).toString('hex'))"
+- Using OpenSSL (Secure Sockets Layer) => openssl rand -hex 64
   
     
