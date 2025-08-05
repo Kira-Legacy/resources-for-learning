@@ -67,7 +67,7 @@ Steps to using the command line to commit on a github repository.
       - git diff filename --> check the difference of a file from the original version
       - git checkout filename --> rollback a file to it's last version
 
-  #### Creating Remote Repostirory (On Github or others)
+  #### Creating Remote Repostirory 
       1. git remote add origin github_repository_url
       2. git branch -M main --> Change the deafult branch to main ( the code is going to be pushed here)
       3. git push -u origin main --> Push the code
