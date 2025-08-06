@@ -207,5 +207,28 @@ const numbers = [5, 10, 15, 20, 25, 30];
 # JWT (JSON Web Token) Generation
 - Using Node.js => node -e "console.log('JWT_SECRET=' + require('crypto').randomBytes(64).toString('hex'))"
 - Using OpenSSL (Secure Sockets Layer) => openssl rand -hex 64
+
+# Running HTML file from the termial
+## 1. Using Python (Recommended)
+    cd project_folder
+    python -m http.server 2300
+- Then open your browser and go to: http://localhost:8000
   
+## 2. Using Node.js (if you have it installed)
+    npm install -g http-server
+    cd project_folder
+    http-server
+## 3. Using PHP 
+    cd project_folder
+    php -S localhost: 2300
+
+## 4. Direct File Opening (Limited)
+### On Windows
+    start index.html
+
+### On macOS
+    open index.html
+
+### On Linux
+    xdg-open index.html
     
